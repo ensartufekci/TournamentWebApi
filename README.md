@@ -1,5 +1,6 @@
 # TournamentWebApi
 
+Postman collection porjenin içinde mevcuttur.
 
 Postgre SQL için connectionstring şu şekilde => Server=127.0.0.1;Port=5432;Database=Tournament;User Id=postgres;Password=ensar123;
 
