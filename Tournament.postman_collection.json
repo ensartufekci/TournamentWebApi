@@ -1,0 +1,75 @@
+{
+	"info": {
+		"_postman_id": "224f4605-5dcd-4373-adc3-6b522ce5ce5e",
+		"name": "Tournament",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "26570586"
+	},
+	"item": [
+		{
+			"name": "Fixture/Create",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/Fixture/Create",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"Fixture",
+						"Create"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Fixture/PlayTheMatchesOfTheWeek",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:5001/Fixture/PlayTheMatchesOfTheWeek",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"Fixture",
+						"PlayTheMatchesOfTheWeek"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Standings",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "accept",
+						"value": "text/plain"
+					}
+				],
+				"url": {
+					"raw": "https://localhost:5001/Team/Standings",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "5001",
+					"path": [
+						"Team",
+						"Standings"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
