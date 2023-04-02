@@ -1,0 +1,66 @@
+[
+  {
+    "TeamId": 1,
+    "Name": "Team1",
+    "Wins": 0,
+    "Losses": 0,
+    "Draws": 0,
+    "Points": 0
+  },
+  {
+    "TeamId": 2,
+    "Name": "Team2",
+    "Wins": 0,
+    "Losses": 0,
+    "Draws": 0,
+    "Points": 0
+  },
+  {
+    "TeamId": 3,
+    "Name": "Team3",
+    "Wins": 0,
+    "Losses": 0,
+    "Draws": 0,
+    "Points": 0
+  },
+  {
+    "TeamId": 4,
+    "Name": "Team4",
+    "Wins": 0,
+    "Losses": 0,
+    "Draws": 0,
+    "Points": 0
+  },
+  {
+    "TeamId": 5,
+    "Name": "Team5",
+    "Wins": 0,
+    "Losses": 0,
+    "Draws": 0,
+    "Points": 0
+  },
+  {
+    "TeamId": 6,
+    "Name": "Team6",
+    "Wins": 0,
+    "Losses": 0,
+    "Draws": 0,
+    "Points": 0
+  },
+  {
+    "TeamId": 7,
+    "Name": "Team7",
+    "Wins": 0,
+    "Losses": 0,
+    "Draws": 0,
+    "Points": 0
+  },
+  {
+    "TeamId": 8,
+    "Name": "Team8",
+    "Wins": 0,
+    "Losses": 0,
+    "Draws": 0,
+    "Points": 0
+  }
+]
