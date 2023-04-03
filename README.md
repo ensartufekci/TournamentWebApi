@@ -1,12 +1,12 @@
 # TournamentWebApi
 
-Postman collection porjenin içinde mevcuttur.
+Postman collection projenin içinde mevcuttur.
 
 Postgre SQL için connectionstring şu şekilde => Server=127.0.0.1;Port=5432;Database=Tournament;User Id=postgres;Password=ensar123;
 
-Bunu şu dizin altında bularbilirsiniz. TournamentWebApi\DataAccess\TournamentContext.cs
+Bunu şu dizin altında bulabilirsiniz. TournamentWebApi\DataAccess\TournamentContext.cs
 
-Database tarafında tabloların oluşturulması ve gereken 8 takımın db'ye eklenmesi ile ilgili scriptler sırasıyla aşağıda yer almaktadır...
+Database tarafında tabloların oluşturulması ve istenen 8 takımın db'ye eklenmesi ile ilgili scriptler sırasıyla aşağıda yer almaktadır.
 
 
 create table "Match"
